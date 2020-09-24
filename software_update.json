@@ -1,0 +1,9 @@
+{
+"Configure":
+	{
+		"LatestVerison":"V0.1",
+		"Url":"https://github.com/BetaOpen/LiteSilver-release/releases/download/v0.1/release_configure.zip",
+		"UpdateTime":"2020-09-20",
+      	"ReleaseNote":"\n1.First release,now only support firmware flash.\n2.Click Check button to update configure if a new version is released." 
+	}
+}
